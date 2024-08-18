@@ -1,5 +1,5 @@
 import { TransactionItems } from './TransactionItems';
-import { Table, Caption, TableEl } from './TransactionHistory.styled';
+import { Table, Caption } from './TransactionHistory.styled';
 
 export const TransactionHistory = ({ items }) => (
   <Table>
